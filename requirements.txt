@@ -1,0 +1,7 @@
+opencv-python>=4.8.0
+numpy>=1.24.0
+Pillow>=10.0.0
+pyaudio>=0.2.13
+mss>=9.0.0
+# PyGObject and dbus-python are installed via system packages (python3-gi, python3-dbus)
+# They are available when using venv with --system-site-packages
